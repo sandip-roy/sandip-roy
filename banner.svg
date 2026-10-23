@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sandip Roy — Full Stack Developer</title>
+  <desc id="desc">Web applications, APIs and practical AI. Based in Kolkata, India.</desc>
+  <rect width="1200" height="360" rx="16" fill="#181817"/>
+  <path d="M880 0V360M960 0V360M1040 0V360M1120 0V360M800 80H1200M800 160H1200M800 240H1200M800 320H1200" stroke="#30302d" fill="none"/>
+  <circle cx="1040" cy="180" r="112" fill="none" stroke="#f05a36" stroke-width="2"/>
+  <circle cx="1040" cy="180" r="73" fill="none" stroke="#f05a36" stroke-width="2"/>
+  <path d="M1004 144L968 180L1004 216M1076 144L1112 180L1076 216M1056 136L1024 224" stroke="#f05a36" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="58" y="48" width="28" height="4" fill="#f05a36"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="102" y="57" fill="#c4c4b9" font-size="15" letter-spacing="3">INDEPENDENT DEVELOPER / KOLKATA</text>
+    <text x="54" y="163" fill="#f4f1e8" font-size="88" font-weight="700" letter-spacing="-4">SANDIP ROY<tspan fill="#f05a36">.</tspan></text>
+    <text x="58" y="214" fill="#f4f1e8" font-size="27">From the first screen to the live web.</text>
+    <text x="58" y="264" fill="#c4c4b9" font-size="18">Angular · .NET · SQL Server · AI &amp; Automation</text>
+    <text x="58" y="321" fill="#f05a36" font-size="16" letter-spacing="2">SANDIPROY.IN</text>
+  </g>
+</svg>
